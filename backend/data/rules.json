@@ -1,0 +1,319 @@
+{
+  "black": {
+    "kharif": [
+      {
+        "crop": "Cotton",
+        "fertilizer": "Urea + DAP",
+        "water": "medium",
+        "climateAdvice": "Grows well in warm and moderately dry climates.",
+        "notes": "Needs well-drained black soil and moderate irrigation."
+      },
+      {
+        "crop": "Soybean",
+        "fertilizer": "SSP + Potash",
+        "water": "medium",
+        "climateAdvice": "Prefers warm and moist climate.",
+        "notes": "Sensitive to waterlogging, ensure proper drainage."
+      },
+      {
+        "crop": "Tur (Arhar)",
+        "fertilizer": "DAP + Gypsum",
+        "water": "low",
+        "climateAdvice": "Best for hot and dry climate with less rainfall.",
+        "notes": "Tolerant to drought; good for rainfed areas."
+      },
+      {
+        "crop": "Jowar",
+        "fertilizer": "Urea + Potash",
+        "water": "low",
+        "climateAdvice": "Thrives in hot, dry climates.",
+        "notes": "Drought-resistant; grows well with minimal irrigation."
+      },
+      {
+        "crop": "Sunflower",
+        "fertilizer": "DAP + Urea",
+        "water": "medium",
+        "climateAdvice": "Grows in both warm and temperate climates.",
+        "notes": "Needs sunlight; avoid waterlogging."
+      }
+    ],
+    "rabi": [
+      {
+        "crop": "Wheat",
+        "fertilizer": "Urea + DAP",
+        "water": "high",
+        "climateAdvice": "Requires cool weather during growth and warmth at maturity.",
+        "notes": "Needs irrigation at tillering, flowering, and grain filling stages."
+      },
+      {
+        "crop": "Gram (Chickpea)",
+        "fertilizer": "SSP + Gypsum",
+        "water": "low",
+        "climateAdvice": "Best in dry, cool climate.",
+        "notes": "Avoid excess irrigation; good for drought-prone areas."
+      },
+      {
+        "crop": "Linseed",
+        "fertilizer": "Potash + Urea",
+        "water": "medium",
+        "climateAdvice": "Prefers cool climate with low humidity.",
+        "notes": "Sensitive to frost; moderate irrigation required."
+      },
+      {
+        "crop": "Mustard",
+        "fertilizer": "DAP + Potash",
+        "water": "low",
+        "climateAdvice": "Thrives in dry, cold climate.",
+        "notes": "Avoid waterlogging; good for rainfed farming."
+      }
+    ]
+  },
+  "loamy": {
+    "kharif": [
+      {
+        "crop": "Paddy (Rice)",
+        "fertilizer": "Urea + DAP + Potash",
+        "water": "high",
+        "climateAdvice": "Needs hot and humid climate with plenty of rainfall.",
+        "notes": "Requires standing water for better yield."
+      },
+      {
+        "crop": "Maize",
+        "fertilizer": "DAP + Urea",
+        "water": "medium",
+        "climateAdvice": "Warm climate crop, but avoids frost.",
+        "notes": "Requires irrigation during flowering and grain filling."
+      },
+      {
+        "crop": "Groundnut",
+        "fertilizer": "Gypsum + SSP",
+        "water": "low",
+        "climateAdvice": "Hot and moderately dry climate is suitable.",
+        "notes": "Avoid excess water; prefers sandy-loamy soil."
+      },
+      {
+        "crop": "Tur (Pigeon Pea)",
+        "fertilizer": "DAP + Potash",
+        "water": "low",
+        "climateAdvice": "Hot climate with less rainfall is ideal.",
+        "notes": "Can tolerate drought; suited for dryland farming."
+      },
+      {
+        "crop": "Soybean",
+        "fertilizer": "Urea + SSP",
+        "water": "medium",
+        "climateAdvice": "Warm, moist climate is best.",
+        "notes": "Sensitive to waterlogging; needs well-drained soil."
+      }
+    ],
+    "rabi": [
+      {
+        "crop": "Wheat",
+        "fertilizer": "Urea + DAP",
+        "water": "high",
+        "climateAdvice": "Cool climate during growth, warm at maturity.",
+        "notes": "Requires irrigation at critical stages."
+      },
+      {
+        "crop": "Barley",
+        "fertilizer": "Urea + Potash",
+        "water": "medium",
+        "climateAdvice": "Thrives in dry, cool climate.",
+        "notes": "More tolerant to salinity than wheat."
+      },
+      {
+        "crop": "Mustard",
+        "fertilizer": "SSP + Urea",
+        "water": "low",
+        "climateAdvice": "Grows in dry and cold climate.",
+        "notes": "Best suited for low-irrigation areas."
+      },
+      {
+        "crop": "Peas",
+        "fertilizer": "DAP + SSP",
+        "water": "medium",
+        "climateAdvice": "Cool season crop.",
+        "notes": "Avoid frost during flowering."
+      },
+      {
+        "crop": "Potato",
+        "fertilizer": "Urea + Potash",
+        "water": "high",
+        "climateAdvice": "Cool climate needed for tuber formation.",
+        "notes": "Sensitive to frost and waterlogging."
+      }
+    ]
+  },
+  "alluvial": {
+    "kharif": [
+      {
+        "crop": "Paddy (Rice)",
+        "fertilizer": "Urea + DAP",
+        "water": "high",
+        "climateAdvice": "Hot and humid climate required.",
+        "notes": "Needs standing water during growing season."
+      },
+      {
+        "crop": "Jute",
+        "fertilizer": "Urea + SSP",
+        "water": "high",
+        "climateAdvice": "Hot and humid climate with rainfall is ideal.",
+        "notes": "Prefers warm and moist soil."
+      },
+      {
+        "crop": "Sugarcane",
+        "fertilizer": "Urea + Potash",
+        "water": "high",
+        "climateAdvice": "Hot and humid climate needed.",
+        "notes": "Requires heavy irrigation; long duration crop."
+      },
+      {
+        "crop": "Maize",
+        "fertilizer": "DAP + Urea",
+        "water": "medium",
+        "climateAdvice": "Warm climate preferred.",
+        "notes": "Avoid frost; irrigate during flowering."
+      }
+    ],
+    "rabi": [
+      {
+        "crop": "Wheat",
+        "fertilizer": "DAP + Urea",
+        "water": "high",
+        "climateAdvice": "Cool and dry climate is best.",
+        "notes": "Needs irrigation at key stages like tillering and flowering."
+      },
+      {
+        "crop": "Potato",
+        "fertilizer": "Urea + Potash",
+        "water": "high",
+        "climateAdvice": "Cool climate preferred.",
+        "notes": "Avoid waterlogging."
+      },
+      {
+        "crop": "Maize",
+        "fertilizer": "DAP + Urea",
+        "water": "medium",
+        "climateAdvice": "Warm climate crop.",
+        "notes": "Requires timely irrigation during grain filling."
+      },
+      {
+        "crop": "Mustard",
+        "fertilizer": "Urea + SSP",
+        "water": "low",
+        "climateAdvice": "Cold and dry climate needed.",
+        "notes": "Can be grown in less irrigated areas."
+      }
+    ]
+  },
+  "red": {
+    "kharif": [
+      {
+        "crop": "Millets (Bajra)",
+        "fertilizer": "DAP + Urea",
+        "water": "low",
+        "climateAdvice": "Best suited for hot and dry climates.",
+        "notes": "Drought-resistant; grows in poor soils."
+      },
+      {
+        "crop": "Groundnut",
+        "fertilizer": "Gypsum + SSP",
+        "water": "low",
+        "climateAdvice": "Hot and moderately dry climate suitable.",
+        "notes": "Avoid excess irrigation; prefers sandy soil."
+      },
+      {
+        "crop": "Cotton",
+        "fertilizer": "DAP + Urea",
+        "water": "medium",
+        "climateAdvice": "Grows in warm, dry climates.",
+        "notes": "Needs well-drained soil; moderate irrigation."
+      },
+      {
+        "crop": "Soybean",
+        "fertilizer": "SSP + Potash",
+        "water": "medium",
+        "climateAdvice": "Warm and moist climate best.",
+        "notes": "Sensitive to excess water."
+      },
+      {
+        "crop": "wheat",
+        "fertilizer": "urea",
+        "water": "high"
+      }
+    ],
+    "rabi": [
+      {
+        "crop": "Ragi",
+        "fertilizer": "DAP + Potash",
+        "water": "low",
+        "climateAdvice": "Hot and dry climate crop.",
+        "notes": "Resistant to drought and heat."
+      },
+      {
+        "crop": "Wheat",
+        "fertilizer": "Urea + DAP",
+        "water": "high",
+        "climateAdvice": "Cool climate required.",
+        "notes": "Requires irrigation at critical stages."
+      },
+      {
+        "crop": "Gram (Chickpea)",
+        "fertilizer": "DAP + Gypsum",
+        "water": "low",
+        "climateAdvice": "Best in dry, cool climate.",
+        "notes": "Low irrigation crop; suited for drought-prone areas."
+      },
+      {
+        "crop": "Mustard",
+        "fertilizer": "Urea + SSP",
+        "water": "low",
+        "climateAdvice": "Thrives in cold and dry climate.",
+        "notes": "Can be grown in rainfed areas."
+      }
+    ]
+  },
+  "Loamy": {
+    "kharif": [
+      {
+        "crop": "Black gram",
+        "fertilizer": "N-P-K",
+        "water": "Midium"
+      },
+      {
+        "crop": "Bajra",
+        "fertilizer": "Basal Dose of Nitrogen",
+        "water": ""
+      },
+      {
+        "crop": "Bajra",
+        "fertilizer": "Basal Dose of Nitrogen",
+        "water": ""
+      },
+      {
+        "crop": "Bajra",
+        "fertilizer": "N-P-K",
+        "water": "high"
+      }
+    ],
+    "Kharif": [
+      {
+        "crop": "Black gram",
+        "fertilizer": "N-P-K",
+        "water": ""
+      },
+      {
+        "crop": "Black gram",
+        "fertilizer": "N-P-K",
+        "water": ""
+      }
+    ],
+    "Ruby": [
+      {
+        "crop": "Green gram",
+        "fertilizer": "N-P-K",
+        "water": "High"
+      }
+    ]
+  }
+}
